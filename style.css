@@ -1,0 +1,22 @@
+img {
+  display: block;
+  padding: 10px;
+}
+h3 {
+  background-color: rgb(255, 213, 162);
+}
+h2 {
+  background-color: lightblue;
+}
+.list {
+  display: inline-block;
+  background-color: antiquewhite;
+}
+.categories {
+  background-color: burlywood;
+  padding: 20px;
+  border-style: dashed;
+  border-width: 5px;
+  border-color: chocolate;
+  margin: 30px;
+}
