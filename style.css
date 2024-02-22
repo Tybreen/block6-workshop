@@ -11,6 +11,8 @@ h2 {
 .list {
   display: inline-block;
   background-color: antiquewhite;
+  padding: 0px 10px;
+  margin: 5px;
 }
 .categories {
   background-color: burlywood;
